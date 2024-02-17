@@ -9,7 +9,7 @@ with open('DOB.txt', 'r+') as file:
         
 print('Name \n')
 for names in temp_list:
-    print (names[0]+' ' +[1]) #getting each index number
+    print (names[0]+' ' +names[1]) #getting each index number
 
 print('\nBirthdate\n') 
 for dates in temp_list:
