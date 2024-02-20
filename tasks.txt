@@ -1,2 +1,1 @@
-admin;clean dishes;using soap and washing up liquid;2024-02-01;2024-01-23;No
-jimmy;wash dishes;clean dishes;2024-02-01;2024-01-23;No
+jimmy;washing dishes;1;cleaning;2024-12-12;2024-02-20;No

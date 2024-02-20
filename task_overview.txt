@@ -1,0 +1,6 @@
+Amount of tasks generated;1
+Tasks completed;0
+Incomplete tasks;1
+Incomplete overdue tasks;0
+Percentage of incomplete tasks;100.0
+Percentage of overdue incomplete tasks;0.0

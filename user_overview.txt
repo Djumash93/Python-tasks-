@@ -1,0 +1,12 @@
+Amount of users registerd;2
+Amount of tasks generated;1
+Number of tasks assigned to admin;0
+Overall percentage of tasks assigned to admin;0.0
+Percentage of the assigned tasks to "admin" that have been COMPLETED;0
+Percentage of the assigned tasks to "admin" that are INCOMPLETE;0
+Percentage of the assigned tasks to "admin" that are INCOMPLETE and OVERDUE;0
+Number of tasks assigned to jimmy;1
+Overall percentage of tasks assigned to jimmy;100.0
+Percentage of the assigned tasks to "jimmy" that have been COMPLETED;0.0
+Percentage of the assigned tasks to "jimmy" that are INCOMPLETE;100.0
+Percentage of the assigned tasks to "jimmy" that are INCOMPLETE and OVERDUE;0.0
